@@ -40,6 +40,8 @@
 }
 
 .imp-dates-container {
+  background-image: var(--frame-left-top-lg), var(--frame-right-top-lg),
+    var(--frame-left-bottom-lg), var(--frame-right-bottom-lg) !important;
   margin-left: 0% !important;
   padding: 100px;
 }

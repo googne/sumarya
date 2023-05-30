@@ -20,6 +20,10 @@
   --frame-left-bottom: url('./../../images/frames/df9f07/left-bottom.png');
   --frame-right-bottom: url('./../../images/frames/df9f07/right-bottom.png');
   --time-line-dot: url('./../../images/dot.png');
+  --frame-left-top-lg: url('./../../images/frames/df9f07-large/left-top.png');
+  --frame-right-top-lg: url('./../../images/frames/df9f07-large/right-top.png');
+  --frame-left-bottom-lg: url('./../../images/frames/df9f07-large/left-bottom.png');
+  --frame-right-bottom-lg: url('./../../images/frames/df9f07-large/right-bottom.png');
 
   --text-color-1: #df9f07;
   --text-color-2: #df9f07;
