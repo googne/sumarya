@@ -16,6 +16,22 @@
 *
 * ======================================================= */
 
+.dates-icon {
+  height: 100px;
+  width: 100px;
+}
+.dates-logo {
+  height: 290px;
+  margin-top: -60px;
+}
+
+.dates-name {
+  font-size: 100px;
+  line-height: 1.5;
+  font-family: 'Sacramento', Arial, serif;
+  color: var(--text-color-2);
+  margin-top: 50px;
+}
 .story-img {
   height: 200px;
   border-radius: 10px;
